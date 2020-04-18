@@ -3,6 +3,7 @@ public class multiarray
 {
     public static void main(String[] args)
     {
+        //sample 
         int q[] [] = {
                     {2, 8 , 90 },
                     {2 , 9 , 6 , 45, 7},
