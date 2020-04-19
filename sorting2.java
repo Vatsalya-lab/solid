@@ -28,7 +28,7 @@ public class sorting2 {
 
         }
 
-
+        //LOOP
             for(int e : a)
             {
                 System.out.print(e +" ");

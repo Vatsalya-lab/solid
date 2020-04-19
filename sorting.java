@@ -3,7 +3,7 @@ public class sorting {
 
     public static void main(String[] args)
     {   
-        //Bubble Sorting
+        //Bubble  Sorting
         int a[] = {-1 , 8 , -8 , 3 ,-5  };
         boolean sorted = true ;
 
