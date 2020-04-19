@@ -5,7 +5,7 @@ public class sorting {
     {   
         //Bubble  Sorting
         int a[] = {-1 , 8 , -8 , 3 ,-5  };
-        boolean sorted = true ;
+        boolean sort = true ;
 
         int n = a.length ;
         for(int i =0 ; i <n-1 ; i++)
@@ -17,11 +17,11 @@ public class sorting {
                     int temp = a[j+1] ;
                     a[j+1]= a[j];
                     a[j] = temp;
-                    sorted = false ;
+                    sort = false ;
                     
                 }    
             }
-           if(sorted) break;
+           if(sort) break;
         }
         for (int item : a)
         {
