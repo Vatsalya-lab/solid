@@ -18,7 +18,7 @@ public class Matrixmulti {
 
         int b[][] = new int[R][C] ;
         int sum =0;
-        if(c==R)
+        if(c==R) //Value of Columns of 1 Matrix must be == to Value of rows of Second matrix
         {
         System.out.println("Enter Matrix 1 :");
 
